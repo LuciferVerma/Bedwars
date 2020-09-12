@@ -1,4 +1,6 @@
-# BedWars - PocketMine Plugin
+# <H1>This is Updated version of Boi's BedWars plugin</H1>
+   <H2>This plugin depends on Formapi<H2>
+ BedWars - PocketMine Plugin
 Ultimate BedWars plugin for PocketMine<br>
 **Warning:** DO NOT TRUST OTHER PEOPLE SELLING FIXED VERSION OF THIS PLUGIN AS THEIR OWN, I AM ORIGINAL AUTHOR.<br>
 
