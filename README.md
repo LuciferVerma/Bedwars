@@ -3,7 +3,7 @@
 [![](https://poggit.pmmp.io/shield.api/BedWars-Boi)](https://poggit.pmmp.io/p/BedWars-Boi)
 <a href="https://poggit.pmmp.io/p/BedWars-Boi"><img src="https://poggit.pmmp.io/shield.api/BedWars-Boi"></a>
 
-<img href="Icon.png"/>
+<img src="Icon.png">
 
 # This is Updated and fixed version of Boi's BedWars plugin
    This plugin depends on Formapi plugin<br>
@@ -11,7 +11,7 @@
  BedWars - PocketMine Plugin
 Ultimate BedWars plugin for PocketMine<br>
 
-This plugin was originally designed for Hyperlands, but as it got leaked I decided to make it public.
+
 
 ![Image from game](https://i.imgur.com/X9zSs1u.png)</br>
 
