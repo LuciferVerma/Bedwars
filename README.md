@@ -1,5 +1,4 @@
-[![](https://poggit.pmmp.io/shield.state/BedWars-Boi)](https://poggit.pmmp.io/p/BedWars-Boi)
-<a href="https://poggit.pmmp.io/p/BedWars-Boi"><img src="https://poggit.pmmp.io/shield.state/BedWars-Boi"></a>
+
 [![](https://poggit.pmmp.io/shield.api/BedWars-Boi)](https://poggit.pmmp.io/p/BedWars-Boi)
 <a href="https://poggit.pmmp.io/p/BedWars-Boi"><img src="https://poggit.pmmp.io/shield.api/BedWars-Boi"></a>
 # This is Updated and fixed version of Boi's BedWars plugin
