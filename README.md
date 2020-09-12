@@ -15,6 +15,15 @@ Please note that this plugin is not ready for being used on production servers a
 - Team upgrades 
 - Custom generators (like Hypixel's)
 
+## commands
+- bedwars create
+- bedwars addteam
+- bedwars setlobby
+- bedwars setbed
+- bedwars setposition
+- bedwars setgenerator
+- bedwars delete
+
 ## TODO
 - [ ] Customizable messages and scoreboard 
 - [ ] Custom team upgrades & shop prices
