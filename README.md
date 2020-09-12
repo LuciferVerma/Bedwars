@@ -1,8 +1,7 @@
-# <H1>This is Updated version of Boi's BedWars plugin</H1>
-   <H2>This plugin depends on Formapi plugin<H2>
+# This is Updated version of Boi's BedWars plugin
+   This plugin depends on Formapi plugin
  BedWars - PocketMine Plugin
 Ultimate BedWars plugin for PocketMine<br>
-**Warning:** DO NOT TRUST OTHER PEOPLE SELLING FIXED VERSION OF THIS PLUGIN AS THEIR OWN, I AM ORIGINAL AUTHOR.<br>
 
 This plugin was originally designed for Hyperlands, but as it got leaked I decided to make it public.
 
