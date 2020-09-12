@@ -32,9 +32,9 @@ Ultimate BedWars plugin for PocketMine<br>
 - bedwars setgenerator
 - bedwars delete
 
-##Join
- [bedwars]
- game name
+##Join<br>
+ [bedwars]<br>
+ game name<br>
 
 ## TODO
 - [+] Customizable messages and scoreboard 
