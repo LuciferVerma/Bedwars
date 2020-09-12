@@ -1,5 +1,5 @@
 # This is Updated version of Boi's BedWars plugin
-   This plugin depends on Formapi plugin
+   This plugin depends on Formapi plugin<br>
  BedWars - PocketMine Plugin
 Ultimate BedWars plugin for PocketMine<br>
 
