@@ -20,6 +20,3 @@ Please note that this plugin is not ready for being used on production servers a
 - [ ] Custom team upgrades & shop prices
 - [ ] Use random as arena identifier
 - [ ] Rewrite arena setup
-
-## Contact
-**Discord** boi#1485 or https://discord.gg/XKaXcE4
