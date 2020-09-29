@@ -1,14 +1,7 @@
-[![](https://poggit.pmmp.io/shield.state/BedWars-Boi)](https://poggit.pmmp.io/p/BedWars-Boi)
-<a href="https://poggit.pmmp.io/p/BedWars-Boi"><img src="https://poggit.pmmp.io/shield.state/BedWars-Boi"></a>
-[![](https://poggit.pmmp.io/shield.api/BedWars-Boi)](https://poggit.pmmp.io/p/BedWars-Boi)
-<a href="https://poggit.pmmp.io/p/BedWars-Boi"><img src="https://poggit.pmmp.io/shield.api/BedWars-Boi"></a>
+## This plugin will not be updated. But it's still working so you can use it but I'm not going to fix it sry. <br> <br>
+<img src="Icon.png"><br>
 
-<img src="Icon.png">
-
-# This is Updated and fixed version of Boi's BedWars plugin
-   This plugin depends on Formapi plugin<br>
-
- BedWars - PocketMine Plugin
+## BedWars - PocketMine Plugin <br>
 Ultimate BedWars plugin for PocketMine<br>
 
 
@@ -32,7 +25,7 @@ Ultimate BedWars plugin for PocketMine<br>
 - bedwars setgenerator
 - bedwars delete
 
-## Join<br>
+## Join-sign<br>
  [bedwars]<br>
  game name<br>
 
