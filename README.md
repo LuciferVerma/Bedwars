@@ -1,4 +1,4 @@
-## This plugin will not be updated. But it's still working so you can use it but I'm not going to fix it sry. <br> <br>
+## This plugin will not be updated. But it's still working so you can use it but I'm not going to fix 1v1, tnt, fireball and other things sry. <br> <br>
 <img src="Icon.png"><br>
 
 ## BedWars - PocketMine Plugin <br>
